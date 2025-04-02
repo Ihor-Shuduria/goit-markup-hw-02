@@ -1,4 +1,4 @@
-.body {
+body {
     font-family: "Roboto", sans-serif;
     background: #ffffff;
     color: #434455
@@ -21,7 +21,7 @@
 }
 
 .logo-span {
-    color: #f4f4fd;
+    color: #2e2f42;
 }
 
 .navigation {
@@ -37,6 +37,10 @@
 
 a {
     text-decoration: none;
+}
+
+.linc-item {
+    color: #2e2f42;
 }
 
 .linc-item:hover {
@@ -103,10 +107,11 @@ a {
             font-size: 36px;
         
             /* line-height: 40px; */
-            line-height: 1.11111;
+            line-height: 1.11;
             letter-spacing: 0.02em;
             text-align: center;
             color: #2e2f42;
+            text-transform: capitalize;
 }
 
 .text {
