@@ -41,7 +41,7 @@ a {
 }
 
 .navigation-item {
-    color: #434455;
+    color: #2e2f42;
 }
 
 .navigation-item:hover {
@@ -63,7 +63,19 @@ a {
         letter-spacing: 0.02em;
         color: #434455;
         font-style: normal;
-}   
+}
+
+.address-item {
+    color: #434455;
+}
+
+.address-item:hover {
+    color:#404bbf
+}
+
+.address-item:focus {
+    color: #404bbf;
+}
 
 .section {
     background: #2e2f42;
@@ -145,7 +157,7 @@ a {
     background: #2e2f42;
 }
 
-.list-item {
+.section-tree {
     background-color: #FFFFFF;
 }
 
