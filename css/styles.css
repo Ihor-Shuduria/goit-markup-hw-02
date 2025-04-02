@@ -16,7 +16,7 @@ body {
         text-decoration: none;
 }
 
-.linc {
+.navigation-link {
 text-decoration: none;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -37,15 +37,15 @@ a {
     text-decoration: none;
 }
 
-.linc-item {
-    color: #434455;
+.navigation-item {
+    color: #2e2f42;
 }
 
-.linc-item:hover {
+.navigation-item:hover {
     color: #404bbf;
 }
 
-.linc-item:focus {
+.navigation-item:focus {
     color: #404bbf;
 }
 
