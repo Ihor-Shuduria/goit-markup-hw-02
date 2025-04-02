@@ -16,39 +16,36 @@ body {
         text-decoration: none;
 }
 
-.linc-navigation {
-   color: #2e2f42;
+.linc {
+text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+
+    /* line-height: 24px; */
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .logo-span {
     color: #2e2f42;
 }
 
-.navigation {
-    text-decoration: none;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-        font-size: 16px;
-    
-        /* line-height: 24px; */
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-}
 
 a {
     text-decoration: none;
 }
 
-.linc-navigation-item {
-    color: #2e2f42;
+.linc-item {
+    color: #434455;
 }
 
-.linc-navigation-item:hover {
+.linc-item:hover {
     color: #404bbf;
 }
 
-.linc-navigation-item:focus {
+.linc-item:focus {
     color: #404bbf;
 }
 
@@ -158,4 +155,15 @@ a {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+}
+
+.text-secondary {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
 }
