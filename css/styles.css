@@ -1,0 +1,136 @@
+.body {
+    font-family: "Roboto", sans-serif;
+    background: #ffffff;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+    
+        text-decoration: none;
+}
+
+.logo-span {
+    color: #2e2f42;
+}
+
+.navigation {
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navigation:hover {
+    color: #404bbf;
+}
+
+.navigation:focus {
+    color: #404bbf;
+}
+
+.address {
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+        font-style: normal;
+}   
+
+.section {
+    background: #2e2f42;
+}
+
+.title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+        font-size: 56px;
+    
+        /* line-height: 60px; */
+        line-height: 1.07143;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #ffffff;
+}
+
+.button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+}
+
+.button:hover {
+    background: #404bbf;
+}
+
+.button:focus {
+    background-color: #404BBF
+}
+
+.title-two {
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        text-transform: capitalize;
+}
+
+.text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.header {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+        font-size: 20px;
+    
+        /* line-height: 24px; */
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.section-two {
+        background: #f4f4fd;
+}
+
+.photography {
+    width: 264px;
+        height: 260px;
+}
+
+.portfolio-img {
+    width: 360px;
+        height: 300px;
+}
