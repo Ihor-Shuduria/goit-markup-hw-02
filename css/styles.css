@@ -1,6 +1,7 @@
 .body {
     font-family: "Roboto", sans-serif;
     background: #ffffff;
+    color: #434455
 }
 
 .logo {
@@ -15,8 +16,12 @@
         text-decoration: none;
 }
 
+.linc {
+   color: #2e2f42;
+}
+
 .logo-span {
-    color: #2e2f42;
+    color: #f4f4fd;
 }
 
 .navigation {
@@ -28,18 +33,17 @@
         /* line-height: 24px; */
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #2e2f42;
 }
 
 a {
     text-decoration: none;
 }
 
-.navigation:hover {
+.linc-item:hover {
     color: #404bbf;
 }
 
-.navigation:focus {
+.linc-item:focus {
     color: #404bbf;
 }
 
@@ -66,7 +70,7 @@ a {
         font-size: 56px;
     
         /* line-height: 60px; */
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #ffffff;
@@ -81,6 +85,8 @@ a {
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        background: #4d5ae5;
+        cursor: pointer;
 }
 
 .button:hover {
@@ -94,9 +100,13 @@ a {
 .title-two {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11;
-        text-transform: capitalize;
+            font-size: 36px;
+        
+            /* line-height: 40px; */
+            line-height: 1.11111;
+            letter-spacing: 0.02em;
+            text-align: center;
+            color: #2e2f42;
 }
 
 .text {
@@ -125,12 +135,21 @@ a {
         background: #f4f4fd;
 }
 
-.photography {
-    width: 264px;
-        height: 260px;
+.footer {
+    background: #2e2f42;
 }
 
-.portfolio-img {
-    width: 360px;
-        height: 300px;
+.list-item {
+    background-color: #FFFFFF;
+}
+
+.text-footer {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
 }
