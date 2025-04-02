@@ -32,13 +32,16 @@ text-decoration: none;
     color: #2e2f42;
 }
 
+.span {
+    color: #f4f4fd;
+}
 
 a {
     text-decoration: none;
 }
 
 .navigation-item {
-    color: #2e2f42;
+    color: #434455;
 }
 
 .navigation-item:hover {
